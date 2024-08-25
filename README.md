@@ -22,9 +22,9 @@ mechanical keyboards are generally more durable and customizable. you choose dif
 <img src="https://github.com/user-attachments/assets/4d65e7cb-e5ff-4da0-a810-7fb4e10253eb" alt="My first prototype with an pro micro dint have soldering tools or expertise so i hot glued all the wires so that they stay">
 <img width="215" alt="image" src="https://github.com/user-attachments/assets/dd526a5d-b5aa-46a7-9902-3c772be6d817">
 
-<h3>Second Prototype</h3>
 
-
+https://github.com/user-attachments/assets/6600b537-bda0-46eb-9df9-4dbb7e48ca13
+<p>This was created with an Arduino pro-micro I did it just as a test if I could get the whole hardware working together cuz I barely had any idea about hardware. And yupp I could get it working. After this I had started my work on building the plate at this time, I only had a very shallow idea of the entire design. I took some tips ideas and some guidance from YouTube videos and made a realty good plate with a layout which would suit me the best and I went and gave it for print I spent 1k rs for it and yea the print quality was bad I dint really know about that stuff back then the parameters for tuning apart from the print quality being bad I also had forgotten to add screw holes so that I could screw the plate to the case. And then post that I worked on a type -c port I got one type c connector and designed a perfect case around it and printed a few tests version and yes it did work out. after this I set out to find a way to connect the type c connector with my type – c cable and then my BluePillI learnt how type –c protocols and systems work   and by the time I tinkered and did all my test and figured out shit I ended up removing most of the copper solder pads and then I went to buy it again and it was nowhere seen I could not find it which meant I had to again find a suitable one a </p>
 
 
         
